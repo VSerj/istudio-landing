@@ -1,2 +1,2 @@
-# vserj.github.io
-i-studio landing page [vserj.github.io](https://vserj.github.io/)
+# for vserj.github.io
+i-studio landing [page](https://vserj.github.io/istudio-landing)
